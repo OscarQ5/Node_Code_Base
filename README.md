@@ -2,3 +2,5 @@
 
 ## Git Commands
 - git commit
+- git push
+- git init
