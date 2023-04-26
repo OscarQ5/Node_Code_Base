@@ -1,4 +1,4 @@
-# This is my first respository header.
+# This is my first repository header.
 
 ## Git Commands
 - git commit
